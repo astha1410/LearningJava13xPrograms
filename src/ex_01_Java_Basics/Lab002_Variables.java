@@ -17,5 +17,6 @@ public class Lab002_Variables {
         int this_is_a_very_long_name = 200;
         System.out.println(this_is_a_very_long_name);
 
+
     }
 }
